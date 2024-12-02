@@ -1,0 +1,4 @@
+Metric,Registration,Login
+Total Requests,100.0,99.0
+Average Response Time (ms),34.320642948150635,20.650767316721907
+Success Rate,100.0,100.0
